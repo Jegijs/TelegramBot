@@ -34,7 +34,7 @@ class MemoryDataSource:
             reminder['fired'] = True
 
 # Your bot token
-TOKEN = '7455190375:AAF1MTzcgyNiAehObzDWZ1NFEzegLWSWpIs'
+TOKEN = ''
 INTERVAL = 60
 
 # Define states for conversation handler
